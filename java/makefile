@@ -1,4 +1,4 @@
-cthreads:
-	g++ Lab2.cpp -fpermissive -pthread -o cthreads
+jthreads:
+	javac JavaThreads.java
 clean:
-	rm cthreads
+	rm jthreads
